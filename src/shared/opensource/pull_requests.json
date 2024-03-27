@@ -1,0 +1,133 @@
+{
+  "closed": 0,
+  "data": [
+    {
+      "id": "PR_kwDODevjM85kY4Lr",
+      "title": "Readme updates",
+      "url": "https://github.com/pragyy/Preprocessing-on-time-series-dataset/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/48598468?v=4",
+        "url": "https://github.com/saireddythfc",
+        "login": "saireddythfc"
+      },
+      "createdAt": "2024-01-18T06:30:14Z",
+      "number": 1,
+      "changedFiles": 1,
+      "additions": 11,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Preprocessing-on-time-series-dataset",
+        "url": "https://github.com/pragyy/Preprocessing-on-time-series-dataset",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/36094150?u=71cc485ce46a31a9f930656a143a9e658a8e67b8&v=4",
+          "login": "pragyy",
+          "url": "https://github.com/pragyy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOCnxw6M5kY1cu",
+      "title": "Updated Readme.md",
+      "url": "https://github.com/yashveersinghsohi/KonCat/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/48598468?v=4",
+        "url": "https://github.com/saireddythfc",
+        "login": "saireddythfc"
+      },
+      "createdAt": "2024-01-18T06:21:59Z",
+      "number": 1,
+      "changedFiles": 1,
+      "additions": 13,
+      "deletions": 13,
+      "baseRepository": {
+        "name": "KonCat",
+        "url": "https://github.com/yashveersinghsohi/KonCat",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/42487477?u=50f454397466c5363325431b563442a2cd3f5da3&v=4",
+          "login": "yashveersinghsohi",
+          "url": "https://github.com/yashveersinghsohi"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDODMsTss5kYzbl",
+      "title": "Update README.md",
+      "url": "https://github.com/yashveersinghsohi/manipalHackathon/pull/35",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/48598468?v=4",
+        "url": "https://github.com/saireddythfc",
+        "login": "saireddythfc"
+      },
+      "createdAt": "2024-01-18T06:16:06Z",
+      "number": 35,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "manipalHackathon",
+        "url": "https://github.com/yashveersinghsohi/manipalHackathon",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/42487477?u=50f454397466c5363325431b563442a2cd3f5da3&v=4",
+          "login": "yashveersinghsohi",
+          "url": "https://github.com/yashveersinghsohi"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOEsnkk85jZJ3D",
+      "title": "Update README.md",
+      "url": "https://github.com/ruppysuppy/SmartsApp/pull/3",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44058757?u=5b8fc06ed716009e3ea97a2a0ac9f65f97604904&v=4",
+        "url": "https://github.com/ruppysuppy",
+        "login": "ruppysuppy"
+      },
+      "createdAt": "2024-01-06T22:59:53Z",
+      "number": 3,
+      "changedFiles": 1,
+      "additions": 2,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "SmartsApp",
+        "url": "https://github.com/ruppysuppy/SmartsApp",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/44058757?u=5b8fc06ed716009e3ea97a2a0ac9f65f97604904&v=4",
+          "login": "ruppysuppy",
+          "url": "https://github.com/ruppysuppy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDODemJCs5WqN-2",
+      "title": "regresion",
+      "url": "https://github.com/saireddythfc/Computation-of-Air-Quality-Index/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/48598468?v=4",
+        "url": "https://github.com/saireddythfc",
+        "login": "saireddythfc"
+      },
+      "createdAt": "2023-07-28T14:20:52Z",
+      "number": 1,
+      "changedFiles": 3,
+      "additions": 306,
+      "deletions": 21,
+      "baseRepository": {
+        "name": "Computation-of-Air-Quality-Index",
+        "url": "https://github.com/saireddythfc/Computation-of-Air-Quality-Index",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/48598468?v=4",
+          "login": "saireddythfc",
+          "url": "https://github.com/saireddythfc"
+        }
+      }
+    }
+  ],
+  "merged": 5,
+  "open": 0,
+  "totalCount": 5
+}

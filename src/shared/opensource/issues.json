@@ -1,0 +1,87 @@
+{
+  "closed": 3,
+  "data": [
+    {
+      "id": "I_kwDODqGIis6DjTTv",
+      "closed": true,
+      "title": "Google scholar profile doesn't render correctly",
+      "createdAt": "2024-03-26T01:49:23Z",
+      "url": "https://github.com/ashutosh1919/masterPortfolio/issues/353",
+      "number": 353,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "masterPortfolio",
+        "url": "https://github.com/ashutosh1919/masterPortfolio",
+        "owner": {
+          "login": "ashutosh1919",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
+          "url": "https://github.com/ashutosh1919"
+        }
+      }
+    },
+    {
+      "id": "I_kwDODF-Axc6Dhxro",
+      "closed": false,
+      "title": "Tests embedded different versions",
+      "createdAt": "2024-03-25T20:41:51Z",
+      "url": "https://github.com/weaviate/weaviate-python-client/issues/979",
+      "number": 979,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "weaviate-python-client",
+        "url": "https://github.com/weaviate/weaviate-python-client",
+        "owner": {
+          "login": "weaviate",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/37794290?v=4",
+          "url": "https://github.com/weaviate"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOIWuq586DExlY",
+      "closed": true,
+      "title": "[Bug]:  AttributeError: 'tuple' object has no attribute 'get_doc_id' ",
+      "createdAt": "2024-03-21T04:00:24Z",
+      "url": "https://github.com/run-llama/llama_index/issues/12136",
+      "number": 12136,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "llama_index",
+        "url": "https://github.com/run-llama/llama_index",
+        "owner": {
+          "login": "run-llama",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/130722866?v=4",
+          "url": "https://github.com/run-llama"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOLJOUf859i3wa",
+      "closed": true,
+      "title": "Runtime error",
+      "createdAt": "2024-01-29T19:49:36Z",
+      "url": "https://github.com/efriis/langchain-perplexaty/issues/1",
+      "number": 1,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "langchain-perplexaty",
+        "url": "https://github.com/efriis/langchain-perplexaty",
+        "owner": {
+          "login": "efriis",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/9557659?u=44391f1f5f5e3a72acc9772ca30f28bfdcc25fac&v=4",
+          "url": "https://github.com/efriis"
+        }
+      }
+    }
+  ],
+  "open": 1,
+  "totalCount": 4
+}
