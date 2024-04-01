@@ -36,7 +36,6 @@ const socialMediaLinks = [
   // github: "https://github.com/saireddythfc",
   // linkedin: "https://www.linkedin.com/in/saivivaswanthreddy/",
   // gmail: "saivivaswanthreddy@gmail.com",
-  // gitlab: "https://gitlab.com/ashutoshhathidara98",
   // facebook: "https://www.facebook.com/laymanbrother.19/",
   // twitter: "https://twitter.com/yiddy_reddy",
   // instagram: "https://www.instagram.com/reddy.buddy/",
@@ -54,24 +53,18 @@ const socialMediaLinks = [
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
-  // {
-  //   name: "YouTube",
-  //   link: "https://youtube.com/c/DevSense19",
-  //   fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/youtube?style=brands
-  //   backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=youtube
-  // },
   {
     name: "Gmail",
     link: "mailto:saivivaswanthreddy@gmail.com",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
-  {
-    name: "google-scholar",
-    link: "https://scholar.google.com/citations?user=2XYtPVYAAAAJ",
-    fontAwesomeIcon: "fa-google-scholar", // Reference https://fontawesome.com/icons/google-scholar?f=brands&s=solid
-    backgroundColor: "#4285F4", // Reference https://simpleicons.org/?q=google+sc
-  },
+  // {
+  //   name: "google-scholar",
+  //   link: "https://scholar.google.com/citations?user=2XYtPVYAAAAJ",
+  //   fontAwesomeIcon: "fa-google-scholar", // Reference https://fontawesome.com/icons/google-scholar?f=brands&s=solid
+  //   backgroundColor: "#4285F4", // Reference https://simpleicons.org/?q=google+sc
+  // },
   {
     name: "X-Twitter",
     link: "https://twitter.com/yiddy_reddy",
@@ -80,7 +73,7 @@ const socialMediaLinks = [
   },
   // {
   //   name: "Facebook",
-  //   link: "https://www.facebook.com/laymanbrother.19/",
+  //   link: "https://www.facebook.com/saireddy/",
   //   fontAwesomeIcon: "fa-facebook-f", // Reference https://fontawesome.com/icons/facebook-f?style=brands
   //   backgroundColor: "#1877F2", // Reference https://simpleicons.org/?q=facebook
   // },

@@ -5,9 +5,18 @@ import Button from "../../components/button/Button";
 import { greeting } from "../../portfolio";
 import { Fade } from "react-reveal";
 import FeelingProud from "./FeelingProud";
+// import { ReactTyped } from "react-typed";
+
+function greetings(title) {
+  const greets = title.replaceAll(/\|/g, ",").split(",");
+  // const greets = "a,b,c"
+  console.log(greets);
+  return greets;
+}
 
 export default function Greeting(props) {
   const theme = props.theme;
+
   return (
     <Fade bottom duration={2000} distance="40px">
       <div className="greet-main" id="greeting">
@@ -26,6 +35,14 @@ export default function Greeting(props) {
                 className="greeting-text-p subTitle"
                 style={{ color: theme.secondaryText }}
               >
+                {/* <ReactTyped
+                  // strings={greetings(greeting.subTitle)}
+                  strings = {["a,b,c"]}
+                  typeSpeed={150}
+                  backSpeed={100}
+                  loop 
+                >
+                </ReactTyped> */}
                 {greeting.subTitle}
               </p>
               <SocialMedia theme={theme} />
@@ -38,10 +55,15 @@ export default function Greeting(props) {
                   className="portfolio-repo-btn"
                 />
               </div> */}
-              {/* <div className="button-greeting-div">
-              <Button text="Contact me" href="#contact" />
-              <Button text="See my resume" newTab={true} href={greeting.resumeLink} />
-            </div> */}
+              <div className="button-greeting-div">
+                {/* <Button text="Contact me" href="#contact" /> */}
+                <Button
+                  text="See my resume"
+                  theme={theme}
+                  newTab={true}
+                  href={greeting.resumeLink}
+                />
+              </div>
             </div>
           </div>
           <div className="greeting-image-div">
