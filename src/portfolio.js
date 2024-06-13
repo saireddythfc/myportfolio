@@ -731,14 +731,16 @@ const contactPageData = {
   // },
   addressSection: {
     title: "Address",
-    subtitle: "Sunnyvale, CA",
-    locality: "Sunnyvale",
-    country: "USA",
-    region: "Bay Area",
+    subtitle: "Navi Mumbai, Maharashtra, India",
+    locality: "Navi Mumbai",
+    country: "India",
+    region: "Maharashtra",
     postalCode: "",
     streetAddress: "",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://www.google.com/maps/place/Sunnyvale,+CA/",
+    //location_map_link: "https://www.google.com/maps/place/Sunnyvale,+CA/",
+    location_map_link:
+      "https://www.google.com/maps/place/CBD+Belapur,+Navi+Mumbai,+Maharashtra",
   },
   phoneSection: {
     title: "",
