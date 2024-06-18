@@ -1,19 +1,23 @@
 {
   "files": {
     "main.css": "/myportfolio/static/css/main.3dfe0aa1.chunk.css",
-    "main.js": "/myportfolio/static/js/main.f5094ab6.chunk.js",
-    "main.js.map": "/myportfolio/static/js/main.f5094ab6.chunk.js.map",
+    "main.js": "/myportfolio/static/js/main.e6fe1c5d.chunk.js",
+    "main.js.map": "/myportfolio/static/js/main.e6fe1c5d.chunk.js.map",
     "runtime-main.js": "/myportfolio/static/js/runtime-main.f418e909.js",
     "runtime-main.js.map": "/myportfolio/static/js/runtime-main.f418e909.js.map",
-    "static/js/2.13177fd0.chunk.js": "/myportfolio/static/js/2.13177fd0.chunk.js",
-    "static/js/2.13177fd0.chunk.js.map": "/myportfolio/static/js/2.13177fd0.chunk.js.map",
+    "static/js/2.80c53d0b.chunk.js": "/myportfolio/static/js/2.80c53d0b.chunk.js",
+    "static/js/2.80c53d0b.chunk.js.map": "/myportfolio/static/js/2.80c53d0b.chunk.js.map",
     "index.html": "/myportfolio/index.html",
-    "precache-manifest.04c0e2e75234795f53df0a5e03519efe.js": "/myportfolio/precache-manifest.04c0e2e75234795f53df0a5e03519efe.js",
+    "precache-manifest.250185ad0b3001e0fc2b7a70787fb1e9.js": "/myportfolio/precache-manifest.250185ad0b3001e0fc2b7a70787fb1e9.js",
     "service-worker.js": "/myportfolio/service-worker.js",
     "static/css/main.3dfe0aa1.chunk.css.map": "/myportfolio/static/css/main.3dfe0aa1.chunk.css.map",
     "static/media/index.css": "/myportfolio/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/USC_logo.png": "/myportfolio/static/media/USC_logo.191d3fcb.png",
     "static/media/address_image.svg": "/myportfolio/static/media/address_image.16559172.svg",
+    "static/media/ai (1).svg": "/myportfolio/static/media/ai (1).dc97a679.svg",
+    "static/media/ai.svg": "/myportfolio/static/media/ai.112f5939.svg",
+    "static/media/ai.jpeg": "/myportfolio/static/media/ai.3139cb76.jpeg",
+    "static/media/ai_fake.png": "/myportfolio/static/media/ai_fake.1bd1c452.png",
     "static/media/animated_dev.png": "/myportfolio/static/media/animated_dev.2083e00a.png",
     "static/media/animated_logo.svg": "/myportfolio/static/media/animated_logo.dcd6dee2.svg",
     "static/media/barc_logo.png": "/myportfolio/static/media/barc_logo.a17df894.png",
@@ -23,6 +27,7 @@
     "static/media/codeInLogo.png": "/myportfolio/static/media/codeInLogo.fee92c18.png",
     "static/media/contactMail.png": "/myportfolio/static/media/contactMail.5f915405.png",
     "static/media/csi_logo.png": "/myportfolio/static/media/csi_logo.33105159.png",
+    "static/media/cyborg.jpg": "/myportfolio/static/media/cyborg.b18150a3.jpg",
     "static/media/data_science.svg": "/myportfolio/static/media/data_science.ebf35d7f.svg",
     "static/media/deeplearning_ai_logo.png": "/myportfolio/static/media/deeplearning_ai_logo.75a7107b.png",
     "static/media/developerActivity.svg": "/myportfolio/static/media/developerActivity.3e23ca14.svg",
@@ -42,6 +47,7 @@
     "static/media/iu_logo.png": "/myportfolio/static/media/iu_logo.60ed0bd3.png",
     "static/media/jsFramework.svg": "/myportfolio/static/media/jsFramework.5b4a6449.svg",
     "static/media/legato_logo.png": "/myportfolio/static/media/legato_logo.c597fbde.png",
+    "static/media/llama_index_logo.png": "/myportfolio/static/media/llama_index_logo.be146b61.png",
     "static/media/manOnTable.svg": "/myportfolio/static/media/manOnTable.83ac24fb.svg",
     "static/media/muffito_logo.png": "/myportfolio/static/media/muffito_logo.069938a8.png",
     "static/media/nptel_logo.png": "/myportfolio/static/media/nptel_logo.95a12a2b.png",
@@ -53,12 +59,13 @@
     "static/media/talksCardBack.svg": "/myportfolio/static/media/talksCardBack.6ac91b16.svg",
     "static/media/talksCardBackAlt.svg": "/myportfolio/static/media/talksCardBackAlt.3fa54242.svg",
     "static/media/tiktok_logo.png": "/myportfolio/static/media/tiktok_logo.0993e324.png",
-    "static/media/ui_ux_design.svg": "/myportfolio/static/media/ui_ux_design.d6363089.svg"
+    "static/media/ui_ux_design.svg": "/myportfolio/static/media/ui_ux_design.d6363089.svg",
+    "static/media/weaviate_logo.png": "/myportfolio/static/media/weaviate_logo.43d018a0.png"
   },
   "entrypoints": [
     "static/js/runtime-main.f418e909.js",
-    "static/js/2.13177fd0.chunk.js",
+    "static/js/2.80c53d0b.chunk.js",
     "static/css/main.3dfe0aa1.chunk.css",
-    "static/js/main.f5094ab6.chunk.js"
+    "static/js/main.e6fe1c5d.chunk.js"
   ]
 }
