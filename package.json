@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "my-portfolio",
-  "homepage": "https://saireddythfc.github.io/",
+  "homepage": "https://saireddythfc.github.io/myportfolio",
   "version": "0.1.0",
   "scripts": {
     "build": "export SET NODE_OPTIONS=--openssl-legacy-provider && react-scripts build",
