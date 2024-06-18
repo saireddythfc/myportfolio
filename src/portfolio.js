@@ -222,7 +222,7 @@ const skills = {
       ],
     },
     {
-      title: "Gen AI and Open Research",
+      title: "Gen AI & Open Research",
       fileName: "GenAIImg",
       skills: [
         "⚡ Working on research and contributing to open source projects leveraging AI",
