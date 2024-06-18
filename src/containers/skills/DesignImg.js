@@ -1,10 +1,21 @@
 import React, { Component } from "react";
+import logo from "../../assests/images/ai_fake.png";
 
 export default class DesignImg extends Component {
   render() {
     const theme = this.props.theme;
     return (
-      <svg
+      <div className="row">
+        <div className="logo">
+          <img src={logo} width="" height="" />
+        </div>
+      </div>
+    );
+  }
+}
+
+{
+  /* <svg
         id="1c51936f-ad83-4493-a1e8-5a7ca1846cda"
         data-name="Layer 1"
         xmlns="http://www.w3.org/2000/svg"
@@ -1009,7 +1020,5 @@ export default class DesignImg extends Component {
             fill="#feeeb7"
           />
         </g>
-      </svg>
-    );
-  }
+      </svg> */
 }

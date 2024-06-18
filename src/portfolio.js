@@ -23,9 +23,9 @@ const greeting = {
   logo_name: "Sai Chereddy",
   nickname: "reddy.buddy",
   subTitle:
-    "Computer Science | Data Science | Machine Learning | AI Enthusiast | Researcher | Developer | Open Source Contributor",
+    "Software Developer | Data Science & Machine Learning | AI Researcher",
   resumeLink:
-    "https://drive.google.com/file/d/1XUcjTj995J2A2yLGTWwEjy09TyuFZPtK/view?usp=drive_link",
+    "https://drive.google.com/file/d/103PP4FcSBVBhxpRnOZKaBqLAcPrYDDGV/view?usp=drive_link",
   portfolio_repository:
     "https://github.com/saireddythfc/saireddythfc.github.io",
   githubProfile: "https://github.com/saireddythfc",
@@ -83,12 +83,12 @@ const socialMediaLinks = [
     fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
     backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
   },
-  {
-    name: "Discord",
-    link: "https://discord.gg/saireddythfc",
-    fontAwesomeIcon: "fa-discord", // Reference https://fontawesome.com/icons/discord?style=brands
-    backgroundColor: "#5865F2", // Reference https://simpleicons.org/?q=discord
-  },
+  // {
+  //   name: "Discord",
+  //   link: "https://discord.gg/saireddythfc",
+  //   fontAwesomeIcon: "fa-discord", // Reference https://fontawesome.com/icons/discord?style=brands
+  //   backgroundColor: "#5865F2", // Reference https://simpleicons.org/?q=discord
+  // },
 ];
 
 const skills = {
@@ -99,7 +99,7 @@ const skills = {
       skills: [
         "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
         "⚡ Experience of working with Computer Vision and NLP projects",
-        "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
+        "⚡ Integrate complex quantitative modelling for dynamic forecasting and time series analysis",
       ],
       softwareSkills: [
         {
@@ -232,38 +232,35 @@ const skills = {
       softwareSkills: [
         {
           skillName: "OpenAI",
-          fontAwesomeClassname: "simple-icons:graphml",
+          fontAwesomeClassname: "simple-icons:openai",
           style: {
-            color: "#FF4500",
+            backgroundColor: "#",
+            color: "#00A67E",
           },
         },
         {
           skillName: "Langchain",
-          fontAwesomeClassname: "simple-icons:networkscience",
+          fontAwesomeClassname: "simple-icons:langchain",
           style: {
-            color: "#FF4500",
+            ///color: "#1C3C3C",
+            color: "#FFFFFF",
           },
         },
         {
           skillName: "LlamaIndex",
-          fontAwesomeClassname: "simple-icons:ai",
-          style: {
-            color: "#FF4500",
-          },
+          imageSrc: "llama_index_logo.png",
         },
+        // {
+        //   skillName: "Weaviate",
+        //   fontAwesomeClassname: "simple-icons:weaviate",
+        //   style: {
+        //     color: "#FF4500",
+        //   },
+        //   imageSrc: "weaviate_logo.png",
+        // },
         {
           skillName: "Weaviate",
-          fontAwesomeClassname: "simple-icons:ml",
-          style: {
-            color: "#FF4500",
-          },
-        },
-        {
-          skillName: "Gen AI",
-          fontAwesomeClassname: "simple-icons:genai",
-          style: {
-            color: "#FF4500",
-          },
+          imageSrc: "weaviate_logo.png",
         },
       ],
     },
@@ -334,45 +331,6 @@ const skills = {
     //       },
     //     },
     // ],
-    // },
-    // {
-    //   title: "UI/UX Design",
-    //   fileName: "DesignImg",
-    //   skills: [
-    //     "⚡ Designing highly attractive user interface for mobile and web applications",
-    //     "⚡ Customizing logo designs and building logos from scratch",
-    //     "⚡ Creating the flow of application functionalities to optimize user experience",
-    //   ],
-    //   softwareSkills: [
-    //     {
-    //       skillName: "Adobe XD",
-    //       fontAwesomeClassname: "simple-icons:adobexd",
-    //       style: {
-    //         color: "#FF2BC2",
-    //       },
-    //     },
-    //     {
-    //       skillName: "Figma",
-    //       fontAwesomeClassname: "simple-icons:figma",
-    //       style: {
-    //         color: "#F24E1E",
-    //       },
-    //     },
-    //     {
-    //       skillName: "Adobe Illustrator",
-    //       fontAwesomeClassname: "simple-icons:adobeillustrator",
-    //       style: {
-    //         color: "#FF7C00",
-    //       },
-    //     },
-    //     {
-    //       skillName: "Inkscape",
-    //       fontAwesomeClassname: "simple-icons:inkscape",
-    //       style: {
-    //         color: "#000000",
-    //       },
-    //     },
-    //   ],
     // },
   ],
 };
@@ -457,7 +415,7 @@ const certifications = {
       certificate_link:
         "https://www.coursera.org/account/accomplishments/specialization/5RJ5HAM8LZYJ",
       alt_name: "deeplearning.ai",
-      color_code: "#00000099",
+      color_code: "#C30010",
     },
     {
       title: "From Data to Insights with Google Cloud Platform",
@@ -509,7 +467,8 @@ const experience = {
           duration: "Feb 2023 - May 2023",
           location: "Playa Vista, CA",
           description:
-            "Coordinated the research initiative, ”teach AI how to teach AI”, by generating content focused on integrating PAL3 learning app , enhancing personalized AI-driven tutoring and increase class participation by 20%.",
+            "Constructed a coordinated transition of intelligent tutoring systems (e.g., PAL3) to live classes with game-like\
+            education by generating content focused on integration, enhancing personalized AI-driven tutoring, and aiming to increase class performance by over 20%.",
           color: "#0879bf",
         },
         // {
@@ -615,6 +574,17 @@ const experience = {
     {
       title: "Volunteer Work",
       experiences: [
+        // {
+        //   title: "Mentor",
+        //   company: "Because She Can - Twelve Football",
+        //   company_url: "https://www.fcrit.ac.in/professional_item",
+        //   logo_path: "csi_logo.png",
+        //   duration: "Aug 2018 - May 2019",
+        //   location: "Navi Mumbai, Maharashtra",
+        //   description:
+        //     "Managed to develop INR 25K fundraising campaign, enabling technical events exceeding budget expectations by 200%.",
+        //   color: "#000000",
+        // },
         {
           title: "Sponsorship Head",
           company: "Computer Society of India - FCRIT",
@@ -626,18 +596,6 @@ const experience = {
             "Managed to develop INR 25K fundraising campaign, enabling technical events exceeding budget expectations by 200%.",
           color: "#000000",
         },
-        // {
-        //   title: "Research Assistant",
-        //   company: "USC Institute for Creative Technologies",
-        //   company_url:
-        //     "https://ict.usc.edu/",
-        //   logo_path: "usc_ict_logo.png",
-        //   duration: "Jun 2022 - Jul 2022",
-        //   location: "Playa Vista, CA",
-        //   description:
-        //     "We have well established developer club in college which is directly associated with Google Developers. We have developed many interdisciplinary projects under the membership of this club. We have organised workshops and activities on Android Application Development, Flutter and React JS.",
-        //   color: "#0C9D58",
-        // },
         // {
         //   title: "Project Trainee",
         //   company: "Bhabha Atomic Research Centre",
